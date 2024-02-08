@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Saqhib Hussain.
 
 # 💫 About Me:
-I am currently working on MySQL and PostgreSQL.<br>I am interested in Data Dnalytics. 
+I am currently working on MySQL and PostgreSQL.<br>I am interested in Data Analytics. 
 
 
 ## 🌐 Socials:
