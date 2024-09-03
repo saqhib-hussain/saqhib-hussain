@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=saadhussain01306&label=Profile%20views&color=0e75b6&style=flat" alt="saadhussain01306" /> 
 </p>
 
-- 🌱 I’m currently learning **MERN Stack Development** & **Machine Learning**
+- 🌱 I’m currently learning **MERN Stack Development & Machine Learning**
 - 🤝 I’m open to collaborating on **Interesting projects**
 - 📫 Feel free to reach me out at **saadhussainckm@gmail.com**
 
