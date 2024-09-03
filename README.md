@@ -1,5 +1,3 @@
-Here's an updated version of your GitHub personal README with the requested modifications:
-
 ### Hi there 👋 I'm Saqhib Hussain.
 
 # 💫 About Me:
@@ -24,5 +22,3 @@ I am currently working on MySQL and PostgreSQL.<br>I am interested in Data Analy
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
-
-These changes include adding Python and JavaScript to your tech stack and enhancing the "About Me" section with some unique and personal touches. Let me know if you'd like further adjustments!
